@@ -1,0 +1,42 @@
+SSDddsdsdssdsdsds
+code
+if
+then else
+while end while
+w
+
+
+comments
+if then else end if
+for (i to 3)
+end file
+:x
+vim x
+x
+:w
+vim :w
+vim :w
+exit
+vim
+:wq
+wq
+:wq
+quit
+exit
+ee
+e
+e
+e
+e
+e
+e
+e
+
+e
+e:w
+:wq
+x
+:x
+i:vim:wq
+vim :wq
+Vq
